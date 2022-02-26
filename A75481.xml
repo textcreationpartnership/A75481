@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An anti-remonstrance, to the late humble remonstrance to the High Court of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75481</idno>
+            <idno type="STC">Wing A3511</idno>
+            <idno type="STC">Thomason E206_7</idno>
+            <idno type="STC">ESTC R209859</idno>
+            <idno type="EEBO-CITATION">99868713</idno>
+            <idno type="PROQUEST">99868713</idno>
+            <idno type="VID">157711</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157711)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E206[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An anti-remonstrance, to the late humble remonstrance to the High Court of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Hall, Joseph.  An humble remonstrance to the High Court of Parliament.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hall, Joseph, 1574-1656. --  Humble remonstrance to the High Court of Parliament.</term>
+               <term>Smectymnuus --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157711:1" rendition="simple:additions"/>
+            <p>AN ANTI-RE<g ref="char:EOLhyphen"/>MONSTRANCE, TO THE LATE HVMBLE REMON<g ref="char:EOLhyphen"/>STRANCE TO THE HIGH COVRT OF PARLIAMENT.</p>
+            <p>
+               <hi>Printed Anno</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb facs="tcp:157711:2"/>
+            <pb facs="tcp:157711:2"/>
+            <head>AN ANTI-REMON<g ref="char:EOLhyphen"/>STRANCE TO THE LATE HVMBLE REMONSTRANCE to the High Court of Parliament.</head>
+            <p>THeſe few Leaves of Paper breake on through, after the Humble re<g ref="char:EOLhyphen"/>monſtrance, with leſſe noyſe, be<g ref="char:EOLhyphen"/>cauſe of leſſe bulke; and not ſtuffed with the huskes of a bare pleaſing ſpeech, but preſented to your view with more ſubſtance then Rethorique, and with more things then words, and ſuch as I hope will plucke off the vizard of dutifull Sonne from the Authour of the Remonſtrance, or make his Mother little behol<g ref="char:EOLhyphen"/>ding to him for his adviſe. Yee are not ignorant of the great diſtractions, oppoſitions, and of the di<g ref="char:EOLhyphen"/>verſity of affections and feares of the people of the whole land about the event of the Churches reformation in hand: for indeede ſome out of a zeale, ſomewhat inconſiderate doe cry downe E<g ref="char:EOLhyphen"/>piſcopacy as Antichriſtian. Others very mo<g ref="char:EOLhyphen"/>derate crave and wiſh earneſtly, Epiſcopacy were
+<pb n="2" facs="tcp:157711:3"/>reformed and purged from the Romiſh and Ty<g ref="char:EOLhyphen"/>rannicall government that incumbers it, and which ſince the laſt reformation in King <hi>Edward</hi> the ſixth dayes, no free Parliament yet was ſo hap<g ref="char:EOLhyphen"/>py as to redreſſe: Againe, a third kind of men carried by a contrary winde, maintaine Epiſco<g ref="char:EOLhyphen"/>pacy to bee by Divine right, not ſo much as na<g ref="char:EOLhyphen"/>ming that apply of diſcord, nor mentioning the maine thing which is ſo much ſtood upon, which is not that Epiſcopacie is either of Divine right or not, for if (as the Author of the remon<g ref="char:EOLhyphen"/>ſtrance acknowledgeth,) a Church may ſtand without Epiſcopacie, it matters not much, which of theſe two opinions is held: but the maine point debated lyes in this aſſertion, that <hi>Epiſco<g ref="char:EOLhyphen"/>pall government, as it is eſtabliſhed in England is moſt diſagreeable to Chriſt and the Apostles inſtitution, and to therites and conſtitutions of the primi<g ref="char:EOLhyphen"/>tive Church, and makes a part of the myſterie of iniquities, which the Roman Church for many hundred yeares in England hath had the greateſt ſhare in.</hi> Likewiſe the favourers of the humble remon<g ref="char:EOLhyphen"/>ſtrance traduce as libellers the oppoſers of that tenet of <hi>Epiſcopacie</hi> by Divine right, and of the corruptions that attend Epiſcopacie, as it is eſta<g ref="char:EOLhyphen"/>bliſhed in <hi>England.</hi> Theſe diſtractions and op<g ref="char:EOLhyphen"/>poſitions being ſuch; may it pleaſe the Hono<g ref="char:EOLhyphen"/>rable Court ſeriouſly to ponder that there is as great a latitude between having no Biſhops at all, and having them with the tendred limitations by thoſe they call libellers; as there is betweene re<g ref="char:EOLhyphen"/>taining a limited power in Biſhops, and confir<g ref="char:EOLhyphen"/>ming
+<pb n="3" facs="tcp:157711:3"/>the Biſhops in the exorbitant authority and greatneſſe of Government as it is eſtabliſhed in <hi>England:</hi> which Governement God forbid it were retained, being as it is conceived by the moſt learned, pious, and judicious of the land moſt Antichriſtian, and attended with more evill then the quite aboliſhing of Epiſcopacie can prove hurtfull, and of dangerous conſequence; and that for theſe reaſons and grounds follow<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="1">I. Epiſcopall Government as it is eſtabliſhed in <hi>England,</hi> is a continuation of the height of pow<g ref="char:EOLhyphen"/>er and juriſdiction, which in the darkeſt times of Popery the Pope hath uſurped by his Biſhops and Abbots farre beyond the footing, he ever tooke in <hi>France, Spaine,</hi> or <hi>Germany.</hi> Therefore what the Authour of the remo<g ref="char:cmbAbbrStroke">̄</g>ſtrance alleadgeth of the ancientneſſe of Epiſcopacie, and of its con<g ref="char:EOLhyphen"/>tinuance hitherto 1500. yeares is vaine and fri<g ref="char:EOLhyphen"/>valous, for the Roman Church upon the ſame ground or pleading of antitiquitie makes her he<g ref="char:EOLhyphen"/>reſies and abominations warantable.</p>
+            <p n="2">II. The Biſhops inſtitution and inthroniſing is altogether repugnant and contrary to the lawes and cuſtomes of the Primitive Church, and a<g ref="char:EOLhyphen"/>gainſt the conſtitutions of the Prime Chriſti<g ref="char:EOLhyphen"/>an Emperours, who ordained that the people joyntly with the inferiour Cleargie ſhould pre<g ref="char:EOLhyphen"/>ſent to the Emperour a catalogue of the moſt pi<g ref="char:EOLhyphen"/>ous and learned men of the Dioceſſe, and the
+<pb n="4" facs="tcp:157711:4"/>man that the Emperour was to pitch upon, be inveſted with the function of a Biſhop: for proofe thereof reade the conſtitutions of <hi>Charles</hi> the great; <hi>Lewis</hi> the godly, <hi>Gregory</hi> the great, <hi>Gela<g ref="char:EOLhyphen"/>ſius</hi> and others.</p>
+            <p n="2">II. The height and ſuperiority of place that Biſhops hold, is one of the greateſt reliques of the Popiſh tyranny in <hi>England,</hi> which is moſt unfit in Miniſters of the Goſpel, repugnant to the cuſtomes of other Nations, &amp; to the diſtance, yea rather neareneſſe of Office and dignity, that ought to be betweene Biſhops and Miniſters. It is not heard but in <hi>England</hi> that Chancellors or Lord Keepers take place after Arch-Biſhops, while o<g ref="char:EOLhyphen"/>ther Miniſters are ſo farre inferiour and diſtant from them, as a Prince from of poore tenant or a high ſumptuous palace from a poore thatcht cot<g ref="char:EOLhyphen"/>tage.</p>
+            <p n="4">IIII. The Biſhops ſole exerciſe of Iuriſdicti<g ref="char:EOLhyphen"/>on is ſuch, as the like was never heard in any Court of juſtice, and is repugnant to reaſon and naturall equity, and cannot bee but an appendice derived from the ſonne of perdition, that arro<g ref="char:EOLhyphen"/>gates to himſelfe an unerring ſole power: The Kings Bench, Common-pleas, &amp; Exchequer, are benches of a certaine number of Iudges; The Chancellor of <hi>England</hi> hath an aſſiſtance of 12. Maſters. I would faine know when Chriſt ſaid <hi>dic Eccleſiae,</hi> if he underſtood that a Biſhop ſhould be a ſole Iudge within his Dioceſſe in deciding any litigious cauſe.</p>
+            <pb n="5" facs="tcp:157711:4"/>
+            <p n="5">V. Alſo the exerciſing of any power by de<g ref="char:EOLhyphen"/>puties, which is the prerogative of Kings, is a monſtrous uſurpation in the Biſhops of <hi>England;</hi> a ſtrange bird hatcht in no court but theirs, every judge in any other Court diſcharging his judiciall function in his own perſon. 'Tis no mar<g ref="char:EOLhyphen"/>vell if they that Preach by deputies obſerve the like practiſe in keeping of Courts.</p>
+            <p n="6">VI. The Biſhops jurisdiction entrenching up<g ref="char:EOLhyphen"/>on the civill Magiſtrate or Iudge by their <hi>jus Pon<g ref="char:EOLhyphen"/>tificium</hi> or Canon law, which the Pope left them for a legacie, ſuch are the cauſes teſtamentary and matrimoniall, is an uſurpation no leſſe bad then the former, and derogates from the holy power of Eccleſiaſticall keyes, which Biſhops aſſumed in the prime pure times of the Church.</p>
+            <p n="7">VII. It were not ſo much to uſurge juriſdicti<g ref="char:EOLhyphen"/>on, if their lawes were but ſound, and their legall proceeding juſt: But their High Commiſſion, the oath <hi>ex officio,</hi> the horrible abuſe of excom<g ref="char:EOLhyphen"/>munication, the commutations of bodily penance into pecuniary, their hinderances of prohibitions, ſtopping the courſe of law, their determining of tithes &amp; poſſeſſions of livings by a <hi>Quare impedit,</hi> are as many pockie eye-ſores, which deface the holy calling of Biſhops, and make them, though their firſt inſtitution had beene of Divine right, to be now leſſe then of humane inſtitution.</p>
+            <pb n="6" facs="tcp:157711:5"/>
+            <p n="8">VIII. Ther not depending on any free Eccleſi<g ref="char:EOLhyphen"/>aſticall aſſembly is as much or more then the Pa<g ref="char:EOLhyphen"/>piſts aſcribe to the Pope, who by maine of them is thought inferiour to the councel and cenſurable by ir.</p>
+            <p n="9">IX. Their Viſitations are apiſh and counterfet imitations of the ancient Synods which are dege<g ref="char:EOLhyphen"/>nerated into receits of cuſtome, as paying for Licences, Procurations, Benevolences, Synodalls, and the like. <hi>Nihil eſt quod curia Epiſcoporum non vendat, &amp;c.</hi>
+            </p>
+            <p n="10">X. Their convocations or Synods are little better; where <hi>deputati ſunt deputantes,</hi> the deputies are deputing; where in moſt of the members of it, there is no free choiſe of election; but Biſhops, Deanes, and Arch-deacons have right to ſit by their place and office: where thoſe of the lower Houſe are like to maine ſtockes, that have no mo<g ref="char:EOLhyphen"/>tion, but as they are carried by the members of the ſphere of the higher houſe.</p>
+            <p>Who ever ſhall reade <hi>Mathaeus Paris</hi> and <hi>Ma<g ref="char:EOLhyphen"/>thaeus Weſtmonaſterienſis;</hi> and view the disfi<g ref="char:EOLhyphen"/>gured face of the Church of <hi>England</hi> under <hi>Henry</hi> the ſecond, <hi>John,</hi> &amp; <hi>Henry</hi> the third, Kings of <hi>England,</hi> will acknowledge that the Pope had more power &amp; juriſdiction in <hi>England</hi> in the per<g ref="char:EOLhyphen"/>ſons of his Biſhops and Abbots, then in any other Kingdome, and will not wonder if Bi<g ref="char:EOLhyphen"/>ſhops have hitherto kept poſſeſſion, though they
+<pb n="7" facs="tcp:157711:5"/>hold no more of the Pope; nor will hee eaſily be perſwaded, that that governement is of Divine or Apoſtolicall inſtitution, which hath ever been contrary to the conſtitutions of the ancient Church, and to Imperiall lawes, and repugnant to the proceedings of all Courts of Iu<g ref="char:EOLhyphen"/>ſtice, and to common equitie and ſence.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
